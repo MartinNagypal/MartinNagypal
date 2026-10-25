@@ -6,7 +6,7 @@ Most of my projects start with an idea or a problem Idd like to solve. I've work
 
 Besides, Im into networking, self-hosting, and running my own services. I enjoy experimenting with servers, working with Linux, and building things for my homelab.
 
-Imm always learning, experimenting, and starting new projects. I don't know everything yet, but I enjoy the process of figuring things out and getting better with every project.
+Im always learning, experimenting, and starting new projects. I don't know everything yet, but I enjoy the process of figuring things out and getting better with every project.
 
 ### Most Used Languages
 
