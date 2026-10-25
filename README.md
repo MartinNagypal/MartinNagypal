@@ -11,6 +11,7 @@ Im always learning, experimenting, and starting new projects. I don't know every
 ### Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNagypal&theme=radical&layout=compact&langs_count=6)
+<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinNagypal&theme=tokyonight" alt="mystreak"/>
 
 <!--
 **MartinNagypal/MartinNagypal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
