@@ -2,7 +2,7 @@
 
 I'm a student with interests in software development, web development, homelabs and Linux. I enjoy building things, figuring out how they work, and learning new things.
 
-Most of my projects start with an idea or a problem Idd like to solve. I've worked on things like a dashboard for Minecraft servers or <b>ls</b> written in Go. Lately Ive been exploring Go, Svelte, and web development, while trying to get a better understanding of how software and web apps work.
+Most of my projects start with an idea or a problem Id like to solve. Ive worked on things like a dashboard for Minecraft servers or <b>ls</b> written in Go. Lately Ive been exploring Go, Svelte, and web development, while trying to get a better understanding of how software and web apps work.
 
 Besides, Im into networking, self-hosting, and running my own services. I enjoy experimenting with servers, working with Linux, and building things for my homelab.
 
