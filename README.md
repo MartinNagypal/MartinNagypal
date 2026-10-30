@@ -8,7 +8,7 @@ Besides, Im into networking, self-hosting, and running my own services. I enjoy 
 
 Im always learning, experimenting, and starting new projects. I don't know everything yet, but I enjoy the process of figuring things out and getting better with every project.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNagypal&theme=radical&layout=compact&langs_count=6&cache_seconds=21600)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MartinNagypal&theme=radical&langs_count=6)
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinNagypal&theme=tokyonight" alt="mystreak"/>
 
 <!--
